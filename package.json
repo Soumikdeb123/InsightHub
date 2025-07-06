@@ -1,0 +1,24 @@
+{
+  "name": "insighthub",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soumikdeb123/InsightHub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Soumikdeb123/InsightHub/issues"
+  },
+  "homepage": "https://github.com/Soumikdeb123/InsightHub#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
